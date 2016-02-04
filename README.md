@@ -27,3 +27,6 @@ git push origin master
 git status
 
 git branch -a
+
+
+# correção de bugs 
